@@ -1,0 +1,4 @@
+Hola profe, como le va? soy Franco Martinez legajo 60111 
+Tengo dos cuentas de git, una con el mail universitario y otra con mi mail personal, he tenido algunos problemas con los repositorios ya que hay un bug de git (error 403) 
+que es un problema de datos con las cuentas y las contraseñas así que prefiero usar mi cuenta personal porque sinó tengo que estar modificando los datos de usuario según voy 
+usando mi computadora de escritorio o la notebook de la facultad, espero que no haya ningún problema con eso. Gracias y felices pascuas. 
